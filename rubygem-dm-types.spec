@@ -4,7 +4,7 @@
 #
 Name     : rubygem-dm-types
 Version  : 1.2.2
-Release  : 1
+Release  : 2
 URL      : https://rubygems.org/downloads/dm-types-1.2.2.gem
 Source0  : https://rubygems.org/downloads/dm-types-1.2.2.gem
 Summary  : No detailed summary available
